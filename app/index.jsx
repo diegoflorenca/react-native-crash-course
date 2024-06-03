@@ -8,10 +8,10 @@ export default function App() {
       <Text className="text-3xl font-bold font-pblack">Aora!</Text>
       <StatusBar style="auto" />
       <Link
-        href="/profile"
+        href="/home"
         className="text-blue-500"
       >
-        Go to profile
+        Go to Home
       </Link>
     </View>
   );
